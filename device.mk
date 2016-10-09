@@ -114,7 +114,7 @@ PRODUCT_COPY_FILES += \
 
 # Camera
 PRODUCT_PACKAGES += \
-    Snap \
+    Camera2 \
     camera.msm8974 \
     libshim_camera
 
