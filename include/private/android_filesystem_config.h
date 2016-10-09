@@ -88,7 +88,7 @@
 #define AID_WEBSERV       1044  /* webservd process */
 #define AID_DEBUGGERD     1045  /* debuggerd unprivileged user */
 #define AID_MEDIA_CODEC   1046  /* mediacodec process */
-#define AID_CAMERASERVER  1047  /* cameraserver process */
+#define AID_CAMERASERVER  AID_MEDIA  /* cameraserver process */
 
 #define AID_AUDIT         1049  /* audit daemon */
 
